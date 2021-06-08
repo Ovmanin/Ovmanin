@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Ovmanin
+- 👀 I'm interested in programming
