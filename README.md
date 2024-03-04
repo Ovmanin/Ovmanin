@@ -1,3 +1,3 @@
-- I making discord bots (Python/Disnake)
+I making discord bots (Python/Disnake)
 
 Discord: ovmanin
