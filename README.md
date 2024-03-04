@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @Ovmanin
-- 👀 I'm interested in programming
+- I making discord bots (Python/Disnake)
+
+Discord: ovmanin
